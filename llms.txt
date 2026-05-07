@@ -1,0 +1,52 @@
+# Geotechnique — Angouleme
+
+> Geotechnical engineering services in Angouleme, France.
+
+## Services
+- [Amelioration Sols](https://angouleme.geotechnique.vip/amelioration-sols/)
+- [Ancrages](https://angouleme.geotechnique.vip/ancrages/)
+- [Cbr Routier](https://angouleme.geotechnique.vip/cbr-routier/)
+- [Chaussee Rigide](https://angouleme.geotechnique.vip/chaussee-rigide/)
+- [Chaussee Souple](https://angouleme.geotechnique.vip/chaussee-souple/)
+- [Colonnes Ballastees](https://angouleme.geotechnique.vip/colonnes-ballastees/)
+- [Confidentialite](https://angouleme.geotechnique.vip/confidentialite/)
+- [Densite Cone Sable](https://angouleme.geotechnique.vip/densite-cone-sable/)
+- [Essai Cpt](https://angouleme.geotechnique.vip/essai-cpt/)
+- [Essais Proctor](https://angouleme.geotechnique.vip/essais-proctor/)
+- [Excavations](https://angouleme.geotechnique.vip/excavations/)
+- [Excavations Profondes](https://angouleme.geotechnique.vip/excavations-profondes/)
+- [Fondations](https://angouleme.geotechnique.vip/fondations/)
+- [Geotechnique Routiere](https://angouleme.geotechnique.vip/geotechnique-routiere/)
+- [Granulometrie](https://angouleme.geotechnique.vip/granulometrie/)
+- [Injections](https://angouleme.geotechnique.vip/injections/)
+- [Investigation](https://angouleme.geotechnique.vip/investigation/)
+- [Isolation Sismique](https://angouleme.geotechnique.vip/isolation-sismique/)
+- [Labo In Situ](https://angouleme.geotechnique.vip/labo-in-situ/)
+- [Laboratoire](https://angouleme.geotechnique.vip/laboratoire/)
+- [Limites Atterberg](https://angouleme.geotechnique.vip/limites-atterberg/)
+- [Liquefaction](https://angouleme.geotechnique.vip/liquefaction/)
+- [Masw](https://angouleme.geotechnique.vip/masw/)
+- [Microzonage Sismique](https://angouleme.geotechnique.vip/microzonage-sismique/)
+- [Murs Soutenement](https://angouleme.geotechnique.vip/murs-soutenement/)
+- [Permeabilite In Situ](https://angouleme.geotechnique.vip/permeabilite-in-situ/)
+- [Pieux](https://angouleme.geotechnique.vip/pieux/)
+- [Puits Inspection](https://angouleme.geotechnique.vip/puits-inspection/)
+- [Radiers](https://angouleme.geotechnique.vip/radiers/)
+- [Refraction Sismique](https://angouleme.geotechnique.vip/refraction-sismique/)
+- [Resistivite](https://angouleme.geotechnique.vip/resistivite/)
+- [Semelles](https://angouleme.geotechnique.vip/semelles/)
+- [Sismique](https://angouleme.geotechnique.vip/sismique/)
+- [Sondages Spt](https://angouleme.geotechnique.vip/sondages-spt/)
+- [Stabilite Talus](https://angouleme.geotechnique.vip/stabilite-talus/)
+- [Surveillance Excavations](https://angouleme.geotechnique.vip/surveillance-excavations/)
+- [Talus](https://angouleme.geotechnique.vip/talus/)
+- [Triaxial](https://angouleme.geotechnique.vip/triaxial/)
+- [Tunnels Sol Mou](https://angouleme.geotechnique.vip/tunnels-sol-mou/)
+- [Vibrocompactage](https://angouleme.geotechnique.vip/vibrocompactage/)
+
+## Contact
+- Website: https://angouleme.geotechnique.vip/
+
+## About
+This site provides geotechnical engineering services in Angouleme, France.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
